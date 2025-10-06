@@ -1,1 +1,1 @@
-"# shutdown-win-at-00-00" 
+pyinstaller --onefile --noconsole --icon=asd.ico toff.py
